@@ -5,4 +5,5 @@ alfabeto = ['a','b','c','d','e','f',
             's','t','u','v','w','x',
             'y','z']
 valor = random.choice(alfabeto)
-print(valor)
+letra_maiuscula = valor.upper()
+print(letra_maiuscula)
