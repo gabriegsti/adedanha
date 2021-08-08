@@ -6,3 +6,4 @@
 # unwanted files
 .idea/
 venv/
+__pycache__/

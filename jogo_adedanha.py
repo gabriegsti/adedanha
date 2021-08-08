@@ -1,8 +1,4 @@
-import random
-alfabeto = ['a','b','c','d','e','f',
-            'g','h','i','j','k','l',
-            'm','n','o','p','q','r',
-            's','t','u','v','w','x',
-            'y','z']
-valor = random.choice(alfabeto)
-print(valor)
+import lancamento
+
+letra_maiuscula = lancamento.lancamento_letra()
+print(letra_maiuscula)  
